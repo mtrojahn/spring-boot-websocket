@@ -1,4 +1,4 @@
-package com.example
+package com.marcelustrojahn
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.messaging.handler.annotation.MessageMapping
