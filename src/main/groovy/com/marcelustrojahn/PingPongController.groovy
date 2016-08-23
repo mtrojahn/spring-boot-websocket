@@ -26,7 +26,4 @@ class PingPongController {
     def sendPingResponse() {
         "pong (response)"
     }
-
-
-
 }
